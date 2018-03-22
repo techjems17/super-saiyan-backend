@@ -1,0 +1,28 @@
+{
+  "name": "super-saiyan-backend",
+  "version": "1.0.0",
+  "description": "Saiyans backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techjems17/super-saiyan-backend.git"
+  },
+  "author": "Jordan Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techjems17/super-saiyan-backend/issues"
+  },
+  "homepage": "https://github.com/techjems17/super-saiyan-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "knex": "^0.14.4",
+    "nodemon": "^1.17.2",
+    "pg": "^7.4.1"
+  }
+}
