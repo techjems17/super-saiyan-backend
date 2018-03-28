@@ -26,7 +26,7 @@ If you would like to run the server locally, follow these steps:
 
 4. Run `npm run dev`
 
-5. Visit the API in your web browser at localhost:3000 with the following endpoints:
+5. Visit the API in your web browser at localhost:3000/profiles or localhost:3000/skills
 
 ## Contact
 
