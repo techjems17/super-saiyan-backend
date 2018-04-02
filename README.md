@@ -2,7 +2,7 @@
 The API for this Dragon Ball site contains every user generated profile. See the frontend repo for more information:
 [Frontend repo](https://github.com/techjems17/super-saiyan-frontend)
 
-[Visit site](https://super-saiyan.herokuapp.com/)
+[Visit site](super-saiyan.surge.sh/)
 
 ![screenshot](https://github.com/techjems17/super-saiyan-backend/blob/master/Screen%20Shot%202018-03-23%20at%204.13.57%20PM.png)
 
